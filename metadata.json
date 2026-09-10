@@ -1,0 +1,6 @@
+{
+  "name": "TraceMind AI",
+  "description": "Autonomous AI agent for API failure detection, parallel evidence investigation, root-cause analysis, and debugging recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
